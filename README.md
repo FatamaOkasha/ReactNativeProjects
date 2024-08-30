@@ -10,6 +10,11 @@ This is a simple ToDo List application built using React Native. The app allows 
 - **Delete Tasks:** Users can delete tasks from the list by pressing the "Delete" checkbox.
 - **Task Summary:** The app displays a summary of the number of completed tasks out of the total number of tasks.
 
+![image alt](https://github.com/FatamaOkasha/ReactNativeProjects/blob/master/todo-1.PNG?raw=true)
+![image alt](https://github.com/FatamaOkasha/ReactNativeProjects/blob/master/todo-2.PNG?raw=true)
+![image alt](https://github.com/FatamaOkasha/ReactNativeProjects/blob/master/todo-3.PNG?raw=true)
+
+
 ## Installation
 
 1. **Clone the Repository:**
